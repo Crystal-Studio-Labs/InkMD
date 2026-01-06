@@ -253,12 +253,17 @@ We are constantly improving. Here is what we are working on for 2026:
 </table>
 
 ---
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Crystal-Studio-Development/InkMD&type=date&legend=top-left)](https://www.star-history.com/#Crystal-Studio-Development/InkMD&type=date&legend=top-left)
+
+---
 
 <div align="center">
 
 **© 2026 Crystal Studio Development**
 
-Made with ❤️ by [Shuvranshu Sahoo](https://github.com/shuvranshu)
+Made with ❤️ And ☕ by [Shuvranshu Sahoo](https://github.com/shuvranshu)
 
 [Terms of Service](#) • [Privacy Policy](#) • [Security](SECURITY.md)
 
